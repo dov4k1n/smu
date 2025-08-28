@@ -2,7 +2,8 @@
 VERSION = 1.5
 
 # paths
-PREFIX = /usr/local
+#PREFIX = /usr/local
+PREFIX = ../
 MANPREFIX = ${PREFIX}/share/man
 
 # includes and libs
